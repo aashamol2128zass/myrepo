@@ -1,0 +1,8 @@
+$ vi sample.txt
+
+initially the editor won't be editable. we need to press "i" key from keyboard
+-Insert- status appears, we can add content in the file.
+to save the content press "ESC" escape key from keyboard
+to Exit the text editor :+x to exit ":x" 
+
+
